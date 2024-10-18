@@ -1,7 +1,7 @@
 # Site
 name: "rendrapwk"
 title: "rendrapwk"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Rendra Personal Website Kuring"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -17,6 +17,7 @@ authors:
     name: rendrapwk
     display_name: rendrapwk
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: https://gravatar.com/rendrapwk
     email: rendrapwk@gmail.com
     web: https://rendrapwk.github.io
     # twitter: https://twitter.com/wowthemesnet

@@ -15,12 +15,11 @@ permalink: /:title/
 authors:
   rendrapwk:
     name: rendrapwk
-    display_name: rendrapwk
-    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    gravatar: https://gravatar.com/rendrapwk
+    display_name: Rendra Pratama
+    avatar: 'assets/images/avatar.png'
+    gravatar: rendrapwk
     email: rendrapwk@gmail.com
     web: https://rendrapwk.github.io
-    # twitter: https://twitter.com/wowthemesnet
     description: "KISS - Keep It Simple Sajalah"
   
 # john:

@@ -3,14 +3,14 @@ title: Prof. Mr. Dr. R. Soelaiman Effendi Koesoemah Atmadja
 author: rendrapwk
 date: 2024-10-19 12:20:00 +0700
 categories: [tokoh]
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kusumah_Atmaja.jpg"
+image: "https://i.ibb.co.com/WVLWx2s/jumb-kusumah-atmaja.png"
 ---
 
 
 ### Prof. Mr. Dr. R. Soelaiman Effendi Koesoemah Atmadja 
 > Sejarah, Peran, dan Warisannya
 
-`**Prof. Mr. Dr. R. Soelaiman Effendi Koesoemah Atmadja**`, atau lebih dikenal sebagai Kusumah Atmadja, adalah salah satu figur terkemuka dalam sejarah hukum Indonesia. Dilahirkan pada 8 September 1898 di Purwakarta, Hindia Belanda, Soelaiman Effendi adalah seorang pemimpin dengan visi yang luar biasa, terutama dalam mengembangkan sistem peradilan Indonesia yang mandiri dan berintegritas.
+**Prof. Mr. Dr. R. Soelaiman Effendi Koesoemah Atmadja**, atau lebih dikenal sebagai Kusumah Atmadja, adalah salah satu figur terkemuka dalam sejarah hukum Indonesia. Dilahirkan pada 8 September 1898 di Purwakarta, Hindia Belanda, Soelaiman Effendi adalah seorang pemimpin dengan visi yang luar biasa, terutama dalam mengembangkan sistem peradilan Indonesia yang mandiri dan berintegritas.
 
 ### Pendidikan dan Awal Karier:
 

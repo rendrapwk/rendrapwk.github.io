@@ -16,8 +16,8 @@ authors:
   rendrapwk:
     name: rendrapwk
     display_name: Rendra Pratama
-    avatar: "assets/images/avatar.png"
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    avatar: 'assets/images/avatar.png'
+    gravatar: 6df4e4a08725f9fd7743ff537150874394bfbb24e2e36ac7d6d5eaa503090770
     email: rendrapwk@gmail.com
     web: https://rendrapwk.github.io
     description: "KISS - Keep It Simple Sajalah"

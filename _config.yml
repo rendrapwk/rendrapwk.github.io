@@ -1,7 +1,7 @@
 # Site
 name: "rendrapwk"
-title: "rendrapwk"
-description: "Miboga Purwakarta"
+title: "Rendra Pratama"
+description: "Hayu Urang Miboga Purwakarta"
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: ""
@@ -16,7 +16,7 @@ authors:
   rendrapwk:
     name: rendrapwk
     display_name: Rendra Pratama
-    avatar: assets/images/avatar.png
+    avatar: "assets/images/avatar.png"
     email: rendrapwk@gmail.com
     web: https://rendrapwk.github.io
     description: "KISS - Keep It Simple Sajalah"

@@ -4,6 +4,7 @@ author: rendrapwk
 date: 2024-10-19 12:20:00 +0700
 categories: [tokoh]
 image: "https://i.ibb.co.com/WVLWx2s/jumb-kusumah-atmaja.png"
+featured: true
 ---
 
 
